@@ -4,4 +4,4 @@ This project is a mock amazon database that allows a user to select a product fo
 
 In the future I would like to add a manager view, where products and stock levels can be adjusted as well as keeping track of low inventory. I would also like to add a supervisor view that tracks products by department and keeps a record of overhead costs.
 
-This project is solely maintained by rachelsue
+This project is solely maintained by @rachelsue
